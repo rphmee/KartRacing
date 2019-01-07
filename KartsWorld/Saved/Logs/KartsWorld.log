@@ -581,3 +581,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.07-00.09.42:553][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.01.07-00.09.42:835][ 56]LogSavePackage: Moving '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Saved/Minimal_DefaultB40E4599430995F743FEE0ABBC3DDBE8.tmp' to '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Content/StarterContent/Maps/Minimal_Default.umap'
 [2019.01.07-00.09.42:979][ 56]LogSavePackage: Moving '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Saved/Minimal_Default_BuiltData3DAD98EC4814363B8E72EAB57A6F0ACA.tmp' to '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.01.07-00.21.55:840][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.01.07-00.21.56:941][409]Cmd: DELETE
+[2019.01.07-00.21.56:941][409]Cmd: ACTOR DELETE
+[2019.01.07-00.21.56:946][409]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.07-00.21.56:992][409]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.01.07-00.21.58:174][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.01.07-00.21.59:393][482]Cmd: DELETE
+[2019.01.07-00.21.59:393][482]Cmd: ACTOR DELETE
+[2019.01.07-00.21.59:395][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.07-00.21.59:429][482]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.01.07-00.22.17:399][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2019.01.07-00.22.19:963][ 94]Cmd: DELETE
+[2019.01.07-00.22.19:963][ 94]Cmd: ACTOR DELETE
+[2019.01.07-00.22.19:966][ 94]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.07-00.22.20:000][ 94]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.01.07-00.22.21:897][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.07-00.22.23:445][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.07-00.22.23:635][196]LogSavePackage: Moving '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Saved/Minimal_Default_Auto1E85FA0FF4DCE14A1B8756386BA8D92CD.tmp' to '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.01.07-00.22.23:652][196]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.162
+[2019.01.07-00.22.23:652][196]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.162
+[2019.01.07-00.22.27:831][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.07-00.22.37:925][626]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.07-00.22.44:557][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.07-00.22.44:785][824]LogSavePackage: Moving '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Saved/Minimal_Default47F2C9554F8F343FC758B2B401B1BD00.tmp' to '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.01.07-00.22.44:875][824]LogSavePackage: Moving '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Saved/Minimal_Default_BuiltData7C12FF224181A9A5C4711EA00301C29C.tmp' to '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.01.07-00.22.46:820][884]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.07-00.22.48:162][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.07-00.22.48:316][918]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.07-00.22.48:342][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.07-00.22.48:344][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.07-00.22.48:351][918]PIE: New page: PIE session: Minimal_Default (Jan 6, 2019, 2:22:48 PM)
+[2019.01.07-00.22.48:372][918]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.01.07-00.22.48:383][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010603s)
+[2019.01.07-00.22.48:387][918]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.01.07-00.22.48:388][918]LogPlayLevel: PIE: World Init took: (0.004856s)
+[2019.01.07-00.22.48:388][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016349s)
+[2019.01.07-00.22.48:430][918]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.07-00.22.48:452][918]LogInit: FAudioDevice initialized.
+[2019.01.07-00.22.48:518][918]LogLoad: Game class is 'GameModeBase'
+[2019.01.07-00.22.48:535][918]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.01.06-19.22.48
+[2019.01.07-00.22.48:538][918]LogWorld: Bringing up level for play took: 0.004199
+[2019.01.07-00.22.48:592][918]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2019.01.07-00.22.48:600][918]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.25
+[2019.01.07-00.22.48:600][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.07-00.22.50:969][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.07-00.22.50:970][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.07-00.22.51:068][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.07-00.22.51:069][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.01.07-00.22.51:114][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.07-00.22.51:140][974]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.07-00.22.59:465][225]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.07-00.23.01:063][273]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.07-00.23.02:633][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.07-00.23.05:462][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.07-00.23.48:193][597]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.07-00.23.49:909][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.07-00.23.50:128][647]LogSavePackage: Moving '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Saved/Minimal_Default28E71A0D4956C84E2A977487959A499A.tmp' to '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.01.07-00.23.50:234][647]LogSavePackage: Moving '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Saved/Minimal_Default_BuiltData98BCC8C74A5978BE3AAA49B1D4B16885.tmp' to '../../../../../../Users/rphme/Documents/GitHub/KartRacing/KartsWorld/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.01.07-00.23.52:109][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
